@@ -46,8 +46,8 @@ Bei einer Fehlermeldung wegen fehlenden Gstreamer Plugins kann der folgende Befe
 
 #### Bedienung
 
-Links-Klick auf das Tray Icon -> Fenster zeigen/verbergen
-Rechts-Klick auf das Tray Icon -> Menü anzeige
+- Links-Klick auf das Tray Icon -> Fenster zeigen/verbergen
+- Rechts-Klick auf das Tray Icon -> Menü anzeigen
 
 Alles andere erklärt sich von selbst.
 
