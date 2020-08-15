@@ -1,0 +1,46 @@
+Event 100,http://streams.radiobob.de/100/mp3-128/streams.radiobob.de/
+Event 101,http://streams.radiobob.de/101/mp3-128/streams.radiobob.de/
+80er Rock,http://streams.radiobob.de/bob-80srock/mp3-128/streams.radiobob.de/
+90er Rock,http://streams.radiobob.de/bob-90srock/mp3-128/streams.radiobob.de/
+AC/DC Collection,http://streams.radiobob.de/bob-acdc/mp3-128/streams.radiobob.de/
+Alternative Rock,http://streams.radiobob.de/bob-alternative/mp3-128/streams.radiobob.de/
+Best of Rock,http://streams.radiobob.de/bob-bestofrock/mp3-128/streams.radiobob.de/
+Chillout Unplugged,http://streams.radiobob.de/bob-chillout/mp3-128/streams.radiobob.de/
+Christmas Rock,http://streams.radiobob.de/bob-christmas/mp3-128/streams.radiobob.de/
+Classic Rock,http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
+Deutsch Rock,http://streams.radiobob.de/bob-deutsch/mp3-128/streams.radiobob.de/
+Festival-Stream,http://streams.radiobob.de/bob-festival/mp3-128/streams.radiobob.de/
+Grunge,http://streams.radiobob.de/bob-grunge/mp3-128/streams.radiobob.de/
+Hardrock,http://streams.radiobob.de/bob-hardrock/mp3-128/streams.radiobob.de/
+Harte Saite,http://streams.radiobob.de/bob-hartesaite/mp3-128/streams.radiobob.de/
+Kuschelrock,http://streams.radiobob.de/bob-kuschelrock/mp3-128/streams.radiobob.de/
+Metal,http://streams.radiobob.de/bob-metal/mp3-128/streams.radiobob.de/
+National,http://streams.radiobob.de/bob-national/mp3-128/streams.radiobob.de/
+Punk,http://streams.radiobob.de/bob-punk/mp3-128/streams.radiobob.de/
+Queen,http://streams.radiobob.de/bob-queen/mp3-128/streams.radiobob.de/
+Rockabilly,http://streams.radiobob.de/bob-rockabilly/mp3-128/streams.radiobob.de/
+Rock Hits,http://streams.radiobob.de/bob-rockhits/mp3-128/streams.radiobob.de/
+BOB! rockt Schleswig-Holstein,http://streams.radiobob.de/bob-shlive/mp3-128/streams.radiobob.de/
+Singer & Songwriter,http://streams.radiobob.de/bob-singersong/mp3-128/streams.radiobob.de/
+Wacken Nonstop,http://streams.radiobob.de/bob-wacken/mp3-128/streams.radiobob.de/
+BossHoss Rockshow,http://streams.radiobob.de/bosshoss/mp3-128/streams.radiobob.de/
+Death Metal,http://streams.radiobob.de/deathmetal/mp3-128/streams.radiobob.de/
+Fury in the Slaughterhouse,http://streams.radiobob.de/fury/mp3-128/streams.radiobob.de/
+Gothic Rock,http://streams.radiobob.de/gothic/mp3-128/streams.radiobob.de/
+Metalcore,http://streams.radiobob.de/metalcore/mp3-128/streams.radiobob.de/
+Metallica,http://streams.radiobob.de/metallica/mp3-128/streams.radiobob.de/
+Mittelalter Rock,http://streams.radiobob.de/mittelalter/mp3-128/streams.radiobob.de/
+Newcomer,http://streams.radiobob.de/newcomer/mp3-128/streams.radiobob.de/
+Dunkle Parabel Ritter,http://streams.radiobob.de/ritter/mp3-128/streams.radiobob.de/
+Rockparty,http://streams.radiobob.de/rockparty/mp3-128/streams.radiobob.de/
+Tobias Sammet,http://streams.radiobob.de/sammet/mp3-128/streams.radiobob.de/
+Southern Rock,http://streams.radiobob.de/southernrock/mp3-128/streams.radiobob.de/
+Symphonic Metal,http://streams.radiobob.de/symphmetal/mp3-128/streams.radiobob.de/
+Livestream,http://streams.radiobob.de/bob-live/mp3-128/streams.radiobob.de/
+Livestream Hessen Mitte,http://streams.radiobob.de/live-hessen-mitte/mp3-128/streams.radiobob.de/
+Livestream National Mitte,http://streams.radiobob.de/live-national-mitte/mp3-128/streams.radiobob.de/
+Livestream NRW,http://streams.radiobob.de/live-nrw-mitte/mp3-128/streams.radiobob.de/
+Livestream SH Mitte,http://streams.radiobob.de/live-sh-mitte/mp3-128/streams.radiobob.de/
+Livestream SH Nordwest,http://streams.radiobob.de/live-sh-nordwest/mp3-128/streams.radiobob.de/
+Livestream SH Ost,http://streams.radiobob.de/live-sh-ost/mp3-128/streams.radiobob.de/
+Livestream SH Süd,http://streams.radiobob.de/live-sh-sued/mp3-128/streams.radiobob.de/
