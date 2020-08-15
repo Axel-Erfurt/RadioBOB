@@ -11,6 +11,7 @@ Voraussetzungen:
 - PyQt5
 - PyQt5 Multimedia
  - gstreamer
+ - wget für Aufnahmen
  
  #### Installation
  
@@ -42,3 +43,18 @@ Bei einer Fehlermeldung wegen fehlenden Gstreamer Plugins kann der folgende Befe
 #### Programm starten
 
 ```python3 RadioBOB_D.py```
+
+#### Bedienung
+
+Links-Klick auf das Tray Icon -> Fenster zeigen/verbergen
+Rechts-Klick auf das Tray Icon -> Menü anzeige
+
+Alles andere erklärt sich von selbst.
+
+#### Programm Download
+
+mit pyinstaller erstellt.
+
+entpacken und im Ordner RadioBOB das Programm RadioBOB starten.
+
+[Download 64bit](https://www.dropbox.com/s/q4oojhc62q5n16q/RadioBOB64.tar.gz?dl=1)
