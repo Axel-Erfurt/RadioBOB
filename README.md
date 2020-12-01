@@ -57,4 +57,6 @@ mit pyinstaller erstellt.
 
 entpacken und im Ordner RadioBOB das Programm RadioBOB starten.
 
-[Download 64bit](https://www.dropbox.com/s/q4oojhc62q5n16q/RadioBOB64.tar.gz?dl=1)
+[Download Linux 64bit](https://www.dropbox.com/s/q4oojhc62q5n16q/RadioBOB64.tar.gz?dl=1)
+
+[Download Windows](https://www.dropbox.com/s/jfase9fkp4s877y/RadioBOB_WIN.zip?dl=1)
